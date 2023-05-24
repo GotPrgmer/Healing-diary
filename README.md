@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![logo](Readme_photo/logo.png)
+ | ![logo](Readme_photo/logo.png)|
 
 <h3 align="center">힐링 다이어리</h3>
 
